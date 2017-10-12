@@ -39,11 +39,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "72AE5F86-7416-403B-8013-46285AAAB07C"
+      "class": "text",
+      "id": "D99250D5-E34D-43DE-9A1A-A705D25BC9BF"
     }
   ],
   "name": "iPhone 8",
